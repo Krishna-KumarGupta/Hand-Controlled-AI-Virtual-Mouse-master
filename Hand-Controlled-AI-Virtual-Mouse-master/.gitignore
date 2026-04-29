@@ -1,0 +1,32 @@
+### Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+### Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+### Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+### Jupyter
+.ipynb_checkpoints/
+
+### IDEs
+.vscode/
+.idea/
+
+### OS / misc
+Thumbs.db
+Desktop.ini
+*.log

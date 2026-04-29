@@ -1,0 +1,16 @@
+{
+  "camera_index": 0,
+  "smoothening": 8,
+  "cursor_frame_margin_px": 80,
+  "pinch_threshold_px": 38,
+  "pinch_release_threshold_px": 52,
+  "click_cooldown_s": 0.2,
+  "drag_hold_s": 0.12,
+  "scroll_speed": 40,
+  "continuous_scroll_interval_s": 0.03,
+  "continuous_scroll_latch_s": 0.18,
+  "pause_enabled": false,
+  "pause_toggle_hold_s": 0.8,
+  "show_hud": true
+}
+
